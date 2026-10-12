@@ -3,7 +3,11 @@
 **Data analysis with a tradesman's habits: measure twice, cut once.**
 
 I'm Phil. I trained as a carpenter, built sets for theatre and the BBC, did script development
-for Film4, and ran a photographic archive of over 100,000 images. Now I'm working
+for Film4, and built and developed a photographic archive of over 100,000 rock and pop images.
+
+While not doing these things I built the light and soundstages in the exhibition sector for major clients around the globe.
+
+Now I'm working
 through the Code Institute's Diploma in Data Analytics with AI. The thread through all
 of it is that I like problems more than job titles.
 
