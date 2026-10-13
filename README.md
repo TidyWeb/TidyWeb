@@ -1,6 +1,6 @@
 # Tidy Web
 
-**Data analysis with a tradesman's habits: measure twice, cut once.**
+**Coding and data analysis with a tradesman's habits: measure twice, cut once.**
 
 I’m Phil. I’m a craftsman, and I’ve never had just one job.
 
