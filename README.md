@@ -2,7 +2,7 @@
 
 **Coding and data analysis with a tradesman's habits: measure twice, cut once.**
 
-I’m Phil. I’m a craftsman, and I’ve never had just one job.
+I’m Phil. I’m a craftsman.
 
 I trained as a carpenter, then moved into sheet and tubular metal fabrication. On the side I built motorcycles: hardtail frames, front ends, the lot. Exhibition work made me an electrician. Night school got me into university, and university got me into the Citizens Theatre, building sets and effects. From there I went to the BBC, radio first and then television, doing sets, special effects, and driving when someone needed driving. A scholarship took me to Columbia for an MFA in film, where I worked as a federal tax auditor on the side. After that came years building light, sound and multimedia stages for exhibitions for giant clients around the world.
 
