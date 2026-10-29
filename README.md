@@ -1,6 +1,8 @@
 # Tidy Web
 
-**Coding, project building, data analysis, and communication all done with a tradesman's habits: measure twice, cut once.**
+**Coding, project building, data analysis, and communication all done with a tradesman's habits:
+
+Measure twice, cut once.**
 
 I’m Phil. I’m a craftsman.
 
