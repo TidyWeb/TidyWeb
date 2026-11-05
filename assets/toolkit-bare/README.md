@@ -4,4 +4,4 @@ Development, data and operating-system PNGs come from [marwin1991/profile-techno
 
 AI, Cloud Run, Power BI and Tableau SVGs use [SVG Logos](https://github.com/gilbarbara/logos) via Iconify. The scikit-learn SVG uses [Simple Icons](https://github.com/simple-icons/simple-icons). These are the same verified artworks used in the previous strips, without the added card backgrounds or labels. SVG Logos and Simple Icons distribute artwork under CC0; brand names and marks belong to their respective owners and do not imply endorsement.
 
-The README displays individual images at 36 pixels, with descriptive alt text and hover titles. The images can wrap naturally rather than shrinking a composite strip. Existing older card assets are retained but no longer displayed.
+The profile uses two equal-width transparent PNG rows, each containing fourteen consistently sized logos. Both rows scale to the full README width, with light/dark variants and descriptive alt text. There are no card backgrounds or visible captions. Original individual artwork and older card assets are retained but no longer displayed directly.
