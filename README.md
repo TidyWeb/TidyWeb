@@ -2,9 +2,9 @@
 
 **Imagine it. Build it.**
 
-I'm Phil. I like building new things to help people turn what they imagine into something that works. I work with them to understand the goal, explore the available paths and make each step clear as we go.
+I'm Phil. I am a craftsman. I like building new things to help people turn what they imagine into something that works. I work with them to understand the goal, explore the available paths and make each step clear as we go.
 
-Today I work with AI and data—the best tools I've encountered for that work. I build applications, working systems and guides that help people understand and use them.
+Today I work with code and AI—the best tools I've encountered for that work. I build applications, working systems and guides that help people understand and use them.
 
 ## Start here
 
