@@ -6,6 +6,9 @@ I'm Phil. I am a craftsman. I like building new things to help people turn what 
 
 Today I work with code and AI—the best tools I've encountered for that work. I build applications, working systems and guides that help people understand and use them.
 
+![Claude, Codex, OpenAI, Gemini, Python, pandas, NumPy, Jupyter, scikit-learn, Power BI, Tableau and SQLite](assets/toolkit/toolkit-1.svg)
+![JavaScript, HTML, CSS, Flask, Docker, Google Cloud Run, Git, GitHub, GitHub Actions, VS Code, Linux and Bash](assets/toolkit/toolkit-2.svg)
+
 ## Start here
 
 - **[PickArt](https://github.com/TidyWeb/pickart-project):** A client project connecting cloud automation, marketing and design. I built a publishing robot, ran a £250 campaign that generated 21,895 website link clicks, and developed a working website-redesign proposal to address the weak sales response.
