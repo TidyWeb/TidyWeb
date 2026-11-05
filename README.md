@@ -51,7 +51,7 @@ I'm continuing SkillMatch and moving the PickArt redesign proposal towards a sho
 
 ## A craftsman's habit
 
-I'm a craftsman by instinct. Carpentry and fabrication taught me to work with what's in front of me; theatre, screen and editorial work taught me how ideas reach people. I still measure twice, and aim to understand the problem before choosing tools.
+I'm a craftsman by instinct. Carpentry and fabrication taught me to work with what's in front of me; theatre, screen and editorial work taught me how ideas reach people. I still measure twice, and aim to understand the problem before choosing the tools.
 
 ## Making technical things understandable
 
